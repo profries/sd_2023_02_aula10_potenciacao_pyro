@@ -15,4 +15,5 @@ Para instanciá-lo, precisamos:
 
 Por fim, em outros terminais, instanciamos o servidor e o cliente:
 > python server.py
+
 > python client.py
